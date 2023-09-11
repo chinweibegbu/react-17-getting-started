@@ -12,5 +12,5 @@ React 17 Basics @ Andela-Pluralsight-Meta React Learning Program 2023
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Week 2 "React 17: Getting Started" ([course link](https://app.pluralsight.com/library/courses/react-js-getting-started/))
 
-## Projet Description
-Summary: Coding challenges from the course
+## Project Description
+Summary: TBD
